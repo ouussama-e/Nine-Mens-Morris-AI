@@ -6,8 +6,8 @@ A simple IA for Nine Mens Morris game using minimax and alphabeta pruning search
 # Components :
 This repository contains :
 <ul>
-  <li> Nine_Mens_Morris_AI contains source <a href="ElMoustaphaoui/Nine_Mens_Morris_AI/Nine_Mens_Morris_AI_SDL/">code </a> </li> 
-  <li>  To play the game just clic <a href="ElMoustaphaoui/Nine_Mens_Morris_AI/Play_Nine_Mens_Morris_AI/Play.exe">Play.exe </a>  </li>
+  <li> Nine_Mens_Morris_AI contains source <a href="https://github.com/ElMoustaphaoui/Nine_Mens_Morris_AI/tree/master/Nine_Mens_Morris_AI_SDL">code </a> </li> 
+  <li>  To play the game just clic <a href="https://github.com/ElMoustaphaoui/Nine_Mens_Morris_AI/blob/master/Play_Nine_Mens_Morris_AI/Play.exe">Play.exe </a>  </li>
 </ul>
 
 # Build Environment :
