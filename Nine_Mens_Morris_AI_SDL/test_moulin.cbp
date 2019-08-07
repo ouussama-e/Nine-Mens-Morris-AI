@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="test_moulin" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/test_moulin" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/test_moulin" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="-DSMFL_STATIC" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32" />
+			<Add option="-lsdlmain" />
+			<Add option="-lsdl" />
+		</Linker>
+		<Unit filename="include/Music.h" />
+		<Unit filename="master/Board.cpp" />
+		<Unit filename="master/Board.h" />
+		<Unit filename="master/GameController.cpp" />
+		<Unit filename="master/GameController.h" />
+		<Unit filename="master/Node.cpp" />
+		<Unit filename="master/Node.h" />
+		<Unit filename="master/TTF.cpp" />
+		<Unit filename="master/TTF.h" />
+		<Unit filename="master/alphabeta.cpp" />
+		<Unit filename="master/alphabeta.h" />
+		<Unit filename="master/constantes.h" />
+		<Unit filename="master/heuristike.cpp" />
+		<Unit filename="master/heuristike.h" />
+		<Unit filename="master/nine.cpp" />
+		<Unit filename="master/nine.h" />
+		<Unit filename="master/pravila.cpp" />
+		<Unit filename="master/pravila.h" />
+		<Unit filename="src/Music.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

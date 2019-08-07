@@ -1,0 +1,338 @@
+# depslib dependency file v1.0
+1554228683 source:c:\users\ososm\desktop\ninesmensmorris-master\board.cpp
+	<iostream>
+	<cstdlib>
+	"Board.h"
+	"Node.h"
+
+1554158399 c:\users\ososm\desktop\ninesmensmorris-master\board.h
+	<iostream>
+	<string>
+	"Node.h"
+
+1489250828 c:\users\ososm\desktop\ninesmensmorris-master\node.h
+	<iostream>
+	<string>
+
+1554228647 source:c:\users\ososm\desktop\ninesmensmorris-master\gamecontroller.cpp
+	"GameController.h"
+
+1554219695 c:\users\ososm\desktop\ninesmensmorris-master\gamecontroller.h
+	"nine.h"
+	<cstring>
+	<stdlib.h>
+
+1489250828 c:\users\ososm\desktop\ninesmensmorris-master\nine.h
+	"Board.h"
+	"Node.h"
+	"GameController.h"
+
+1489250828 source:c:\users\ososm\desktop\ninesmensmorris-master\node.cpp
+	"Node.h"
+
+1554158017 source:c:\users\ososm\desktop\ninesmensmorris-master\nine.cpp
+	"nine.h"
+
+1489250828 source:c:\users\ososm\desktop\mydocument\test_moulin_version1\ninesmensmorris-master\node.cpp
+	"Node.h"
+
+1489250828 c:\users\ososm\desktop\mydocument\test_moulin_version1\ninesmensmorris-master\node.h
+	<iostream>
+	<string>
+
+1554228683 source:c:\users\ososm\desktop\mydocument\test_moulin_version1\ninesmensmorris-master\board.cpp
+	<iostream>
+	<cstdlib>
+	"Board.h"
+	"Node.h"
+
+1554291921 c:\users\ososm\desktop\mydocument\test_moulin_version1\ninesmensmorris-master\board.h
+	<iostream>
+	<string>
+	"Node.h"
+
+1554294642 source:c:\users\ososm\desktop\mydocument\test_moulin_version1\ninesmensmorris-master\gamecontroller.cpp
+	"GameController.h"
+
+1554251284 c:\users\ososm\desktop\mydocument\test_moulin_version1\ninesmensmorris-master\gamecontroller.h
+	"nine.h"
+	<cstring>
+	<stdlib.h>
+
+1489250828 c:\users\ososm\desktop\mydocument\test_moulin_version1\ninesmensmorris-master\nine.h
+	"Board.h"
+	"Node.h"
+	"GameController.h"
+
+1554245989 source:c:\users\ososm\desktop\mydocument\test_moulin_version1\ninesmensmorris-master\nine.cpp
+	"nine.h"
+
+1555625311 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\nine.cpp
+	"nine.h"
+	"constantes.h"
+	"TTF.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"Music.h"
+
+1489254428 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\nine.h
+	"Board.h"
+	"Node.h"
+	"GameController.h"
+
+1555247058 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\board.h
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	"Node.h"
+
+1554408607 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\node.h
+	<iostream>
+	<string>
+
+1555244636 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\gamecontroller.h
+	"nine.h"
+	<cstring>
+	<stdlib.h>
+
+1489254428 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\node.cpp
+	"Node.h"
+
+1555655877 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\board.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	"Board.h"
+	"GameController.h"
+	"constantes.h"
+	"Node.h"
+	<SDL/SDl_image.h>
+	<SDL/SDL.h>
+	"TTF.h"
+	"Music.h"
+
+1555317849 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\gamecontroller.cpp
+	"GameController.h"
+	"Board.h"
+	"TTF.h"
+	<SDL/SDL_ttf.h>
+
+1554913277 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\constantes.h
+
+1555114093 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\ttf.cpp
+	"TTF.h"
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+
+1555113087 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\ttf.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1555625975 source:c:\users\mar\desktop\test_moulin_version1\src\music.cpp
+	"Music.h"
+	"SDL/SDL_mixer.h"
+
+1555317258 c:\users\mar\desktop\test_moulin_version1\include\music.h
+
+1556116827 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\nine.cpp
+	"nine.h"
+	"constantes.h"
+	"TTF.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"Music.h"
+
+1489254428 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\nine.h
+	"Board.h"
+	"Node.h"
+	"GameController.h"
+
+1556204976 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\board.h
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	"Node.h"
+
+1554408607 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\node.h
+	<iostream>
+	<string>
+
+1556358349 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\gamecontroller.h
+	"nine.h"
+	<cstring>
+	<stdlib.h>
+
+1556149521 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\constantes.h
+
+1555113087 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\ttf.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1555317258 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\include\music.h
+
+1489254428 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\node.cpp
+	"Node.h"
+
+1555756662 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\ttf.cpp
+	"TTF.h"
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+
+1555625975 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\src\music.cpp
+	"Music.h"
+	"SDL/SDL_mixer.h"
+
+1556215139 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\board.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	"Board.h"
+	"GameController.h"
+	"constantes.h"
+	"Node.h"
+	<SDL/SDl_image.h>
+	<SDL/SDL.h>
+	"TTF.h"
+	"Music.h"
+
+1556358661 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\gamecontroller.cpp
+	"GameController.h"
+	"Board.h"
+	"TTF.h"
+	<SDL/SDL_ttf.h>
+	<ctime>
+	"heuristike.h"
+	"pravila.h"
+	"alphabeta.h"
+
+1556359235 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\alphabeta.cpp
+	"heuristike.h"
+	"pravila.h"
+	"alphabeta.h"
+	<iostream>
+
+1555845368 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\heuristike.h
+
+1555841624 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\pravila.h
+
+1555835265 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\alphabeta.h
+
+1555848315 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\heuristike.cpp
+	"heuristike.h"
+
+1555859749 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\ninesmensmorris-master\pravila.cpp
+	"pravila.h"
+	"heuristike.h"
+
+1556358257 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\alphabeta.cpp
+	"heuristike.h"
+	"pravila.h"
+	"alphabeta.h"
+	<iostream>
+
+1555845368 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\heuristike.h
+
+1555841624 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\pravila.h
+
+1555835265 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\alphabeta.h
+
+1556448986 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\board.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	"Board.h"
+	"GameController.h"
+	"constantes.h"
+	"Node.h"
+	<SDL/SDl_image.h>
+	<SDL/SDL.h>
+	"TTF.h"
+	"Music.h"
+
+1556448287 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\board.h
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	"Node.h"
+
+1554408607 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\node.h
+	<iostream>
+	<string>
+
+1556448960 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\gamecontroller.h
+	"nine.h"
+	<cstring>
+	<stdlib.h>
+
+1489254428 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\nine.h
+	"Board.h"
+	"Node.h"
+	"GameController.h"
+
+1556374950 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\constantes.h
+
+1555113087 c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\ttf.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1555848315 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\heuristike.cpp
+	"heuristike.h"
+
+1556448287 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\nine.cpp
+	"nine.h"
+	"constantes.h"
+	"TTF.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"Music.h"
+
+1489254428 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\node.cpp
+	"Node.h"
+
+1555859749 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\pravila.cpp
+	"pravila.h"
+	"heuristike.h"
+
+1555756662 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\ttf.cpp
+	"TTF.h"
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+
+1556451386 source:c:\users\mar\desktop\jeu moulin\test_moulin_version_sdl\master\gamecontroller.cpp
+	"GameController.h"
+	"Board.h"
+	"TTF.h"
+	<SDL/SDL_ttf.h>
+	<ctime>
+	"heuristike.h"
+	"pravila.h"
+	"alphabeta.h"
+
+1556458968 source:c:\users\ososm\desktop\mydocument\1gi_projet jeu de moulin version final\projet\test_moulin_version_sdl\master\heuristike.cpp
+	"heuristike.h"
+
+1556458968 c:\users\ososm\desktop\mydocument\1gi_projet jeu de moulin version final\projet\test_moulin_version_sdl\master\heuristike.h
+
+1556458968 source:c:\users\ososm\desktop\mydocument\1gi_projet jeu de moulin version final\projet\test_moulin_version_sdl\master\pravila.cpp
+	"pravila.h"
+	"heuristike.h"
+
+1556458968 c:\users\ososm\desktop\mydocument\1gi_projet jeu de moulin version final\projet\test_moulin_version_sdl\master\pravila.h
+
+1556458968 source:c:\users\ososm\desktop\mydocument\1gi_projet jeu de moulin version final\projet\test_moulin_version_sdl\master\ttf.cpp
+	"TTF.h"
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+
+1556458968 c:\users\ososm\desktop\mydocument\1gi_projet jeu de moulin version final\projet\test_moulin_version_sdl\master\ttf.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+

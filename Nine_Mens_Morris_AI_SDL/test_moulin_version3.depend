@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1554407774 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\board.cpp
+	<iostream>
+	<cstdlib>
+	"Board.h"
+	"Node.h"
+
+1554409462 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\board.h
+	<iostream>
+	<string>
+	"Node.h"
+
+1554408607 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\node.h
+	<iostream>
+	<string>
+
+1554298242 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\gamecontroller.cpp
+	"GameController.h"
+
+1554254884 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\gamecontroller.h
+	"nine.h"
+	<cstring>
+	<stdlib.h>
+
+1489254428 c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\nine.h
+	"Board.h"
+	"Node.h"
+	"GameController.h"
+
+1554249589 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\nine.cpp
+	"nine.h"
+
+1489254428 source:c:\users\mar\desktop\test_moulin_version1\ninesmensmorris-master\node.cpp
+	"Node.h"
+
