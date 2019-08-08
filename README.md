@@ -1,7 +1,8 @@
 # Nine_Mens_Morris_AI
 A simple IA for Nine Mens Morris game using minimax and alphabeta pruning search algorithms and C++ (SDL). 
 
-![Untitled Project](https://user-images.githubusercontent.com/46606940/62653582-bade4b80-b955-11e9-8aeb-3ee6da21f948.gif)
+![testmoulin](https://user-images.githubusercontent.com/46606940/62711368-d9455500-b9f0-11e9-9154-2fc211b7ec81.gif)
+
 
 # Components :
 This repository contains :
